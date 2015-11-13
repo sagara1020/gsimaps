@@ -3909,3 +3909,19 @@ form {
 .gsi_onoffswitch_visible .on_label_switch {
     right: 0; 
 }
+#title_logo_upper {
+	font-family:'メイリオ','Meiryo';
+	margin-top:3px;
+	text-align:center;
+	font-size:12px;
+	color:#fff;
+	line-height:12px;
+}
+
+#title_logo_lower {
+	font-family:'メイリオ','Meiryo';
+	text-align:center;
+	font-size:12px;
+	color:#fff;
+	line-height:12px;
+}
