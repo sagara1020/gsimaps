@@ -10,7 +10,7 @@
       "attribution": "",
       "cocotile": true,
       "legendUrl": "",
-      "html": 
+      "html": ""
     }
   ]
 }
