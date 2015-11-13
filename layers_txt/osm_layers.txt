@@ -12,3 +12,5 @@
       "legendUrl": "",
       "html": "http://www.openstreetmap.org/"
     }
+  ]
+}
