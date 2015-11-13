@@ -11,8 +11,9 @@
       "cocotile": true,
       "legendUrl": "",
       "html": "<div class=\"gsi_layerinfo_title\">OpenStreetMap</div>
-<a target=\"_blank\" href=\"https://www.openstreetmap.org\">url</a>
-<div class=\"gsi_layerinfo_copy\">(c)OpenStreetMap</div>"
+      <div class=\"gsi_layerinfo_subtitle\">nasi</div>
+      <a target=\"_blank\" href=\"http://maps.gsi.go.jp/development/ichiran.html#ort\">url</a>
+      <div class=\"gsi_layerinfo_copy\">(c)OpenStreetMap</div>"
     }
   ]
 }
