@@ -10,7 +10,7 @@
       "attribution": "",
       "cocotile": true,
       "legendUrl": "",
-      "html": "http://www.openstreetmap.org"
+      "html": <a href="http://www.openstreetmap.org">osm</a>
     }
   ]
 }
