@@ -10,7 +10,7 @@
       "attribution": "",
       "cocotile": true,
       "legendUrl": "",
-      "html": "<div class=\"gsi_layerinfo_title\">OpenStreetMap</div><a target=\"_blank\" href=\"https://openstreetmap.jp\">url</a><div class=\"gsi_layerinfo_copy\">(c)OpenStreetMap</div>"
+      "html": "<div class=\"gsi_layerinfo_title\">OpenStreetMap</div><a target=\"_blank\" href=\"http://www.openstreetmap.org\">url</a><div class=\"gsi_layerinfo_copy\">(c)OpenStreetMap</div>"
 
     }
   ]
