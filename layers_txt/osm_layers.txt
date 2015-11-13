@@ -10,7 +10,9 @@
       "attribution": "",
       "cocotile": true,
       "legendUrl": "",
-      "html": "<div class=\"gsi_layerinfo_title\">写真</div><div class=\"gsi_layerinfo_subtitle\">(最新（2007年～）)</div><a target=\"_blank\" href=\"http://maps.gsi.go.jp/development/ichiran.html#ort\">解説</a><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+      "html": "<div class=\"gsi_layerinfo_title\">OpenStreetMap</div>
+<a target=\"_blank\" href=\"https://www.openstreetmap.org\">url</a>
+<div class=\"gsi_layerinfo_copy\">(c)OpenStreetMap</div>"
     }
   ]
 }
