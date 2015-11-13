@@ -10,7 +10,10 @@
       "attribution": "",
       "cocotile": true,
       "legendUrl": "",
-      "html": ""
+      "html": "<div class=\"gsi_layerinfo_title\">OpenStreetMap</div>
+<div class=\"gsi_layerinfo_subtitle\">nasi</div>
+<a target=\"_blank\" href=\"http://maps.gsi.go.jp/development/ichiran.html#ort\">url</a>
+<div class=\"gsi_layerinfo_copy\">(c)OpenStreetMap</div>"
     }
   ]
 }
