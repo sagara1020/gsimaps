@@ -2,7 +2,7 @@
   "layers": [
     {
     "type": "Layer",
-      "id": "std",
+      "id": "osm",
       "title": "OSM",
       "iconUrl": "",
       "url": "http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
