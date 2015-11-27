@@ -14,7 +14,7 @@
         "attribution": "",
         "cocotile": true,
         "legendUrl": "",
-        "html": "<div class=\"gsi_layerinfo_title\">OpenStreetMap</div><a target=\"_blank\" href=\"http://www.openstreetmap.org\">url</a><div class=\"gsi_layerinfo_copy\">CC BY-SA <a href="http://www.openstreetmap.org/copyright">© OpenStreetMap contributors</a></div>"
+        "html": "<div class=\"gsi_layerinfo_title\">OpenStreetMap</div><a target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\">url</a><div class=\"gsi_layerinfo_copy\">CC BY-SA © OpenStreetMap contributors</div>"
     }
     ]
    }
